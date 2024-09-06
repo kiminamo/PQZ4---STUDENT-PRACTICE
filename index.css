@@ -1,0 +1,32 @@
+a {
+    text-decoration: none;
+}
+
+a:focus, a:hover {
+    text-decoration: underline;
+}
+#forgot{
+    font-size: 13px;
+}
+#button{
+    background-color: #42B72A;
+    border-color: #42B72A;
+}
+
+#textdown{
+    font-size: 13px;
+    text-align: center;
+}
+
+body{
+    background-color: #F2F4F7;
+}
+
+h1{
+    font-size: 50px;
+    color: #0866FF;
+}
+
+p{
+    line-height: 1.2
+}
